@@ -11,3 +11,6 @@ Pages: `index.html` (home), `bhakti.html`, `darshanas.html`, `varnashrama.html`,
 
 ## Adding a quote
 Copy a `<figure class="quote">` block in `bhakti.html`. Always include the speaker, the exact source, and the translator.
+
+## Editing
+Page content lives in `_build/src/*.body.html`; the shared header, nav and footer are in `_build/build.py`. Run `python3 _build/build.py` to regenerate the HTML pages at the repo root.
