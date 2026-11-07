@@ -9,6 +9,7 @@ pages = [('index','Spiritual Unity Movement','Home','How the world\'s traditions
          ('four-levels','Four Levels of Awareness · Spiritual Unity Movement','Four levels','From body and mind to Brahman, Paramatma and Bhagavan: four levels of self-realisation.'),
          ('pitfalls','Pitfalls on the Path · Spiritual Unity Movement','Pitfalls','What weakens and what nourishes love for God, and how we fall and rise.'),
          ('bhakti-psychology','Bhakti and Psychology · Spiritual Unity Movement','Psychology','How bhakti heals vasanas, trauma and anarthas at the root, in dialogue with modern psychology.'),
+         ('kirtan','Kirtan and the Holy Name · Spiritual Unity Movement','Kīrtan','Kirtan and the holy name: calling on God across traditions, and the path given for this age.'),
          ('darshanas','Six Darśanas · Spiritual Unity Movement','Six darśanas','The six Vedic schools of philosophy and their modern echoes.'),
          ('varnashrama','Varṇāśrama · Spiritual Unity Movement','Varṇāśrama','Varṇāśrama as a natural social order that holds modern political systems.')]
 FONTS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600&family=Marcellus&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Tiro+Devanagari+Sanskrit&display=swap">'
