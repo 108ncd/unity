@@ -8,7 +8,7 @@ Ideas from nik for pages to add to the site later. Not built yet.
 4. **Bhakti and modern psychology (advanced).** For example, traumas as vāsanās, imprints on the subtle body. How the bhakti process acts on the root of karmic seeds and vāsanās and purifies the heart of anarthas.
 5. **Kīrtan and the holy name.** Its central place in bhakti practice, as recommended for this age.
 
-## Gradual awareness: four levels of realisation (nik, 2026-11-07)
+## Gradual awareness: four levels of realisation (nik, 2026-11-07) — drafted as four-levels.html
 
 A framework for the love and bhakti part, building on "we are spirit soul, a part of the Divine".
 
