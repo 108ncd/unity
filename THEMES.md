@@ -22,4 +22,10 @@ Threads running through it:
 - Don't skip steps. Higher levels need grounding and realisation in the earlier ones. No one can claim advanced bhakti on the Bhagavān level without progress on the levels before it. In this sense everything is harmonised.
 - Tie-in to pitfalls (theme 3) and karma (theme 2): mental imprints shape consciousness and actions, and together they create consequences and experiences for the mind.
 
-(nik's note seemed to be cut off at the end.)
+### How karma ties into awareness, love and bhakti (rest of nik's note)
+- Mental imprints and actions create consequences that carry weight in the situations we experience. They shape our destiny, our karma.
+- Karma is a loving reaction of the universe to our mental states and actions. Through it we attract situations in relationships, finances and health.
+- Karma is a binding force, a law of cause and consequence that we experience through body and mind. It rests on our identification with body and mind, the imprints we carry, and the actions we do.
+- The more we progress in self-awareness, love and bhakti, the more we are freed from karmic action and reaction. Issues we normally try to solve through body and mind get resolved on a spiritual level.
+- That is liberation, *kaivalya*: living in a different experience of this world, free from karmic reactions.
+- This is the bridge between the two topics (awareness, love and bhakti on one side, karma on the other). It can be elaborated a lot, partly with material from Lazarev.
