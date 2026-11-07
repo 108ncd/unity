@@ -5,6 +5,7 @@ GH.mkdir(exist_ok=True); AR.mkdir(exist_ok=True)
 pages = [('index','Spiritual Unity Movement','Home','How the world\'s traditions relate: many paths, one ocean of love.'),
          ('bhakti','Bhakti · Spiritual Unity Movement','Bhakti','Words of love for God from prophets and saints across traditions.'),
          ('what-is-bhakti','What Is Bhakti? · Spiritual Unity Movement','What is bhakti?','Bhakti as sanatana-dharma, the eternal function of the soul: loving service.'),
+         ('what-is-karma','What Is Karma? · Spiritual Unity Movement','What is karma?','Karma as the process by which the world teaches us to love without motive and without interruption.'),
          ('darshanas','Six Darśanas · Spiritual Unity Movement','Six darśanas','The six Vedic schools of philosophy and their modern echoes.'),
          ('varnashrama','Varṇāśrama · Spiritual Unity Movement','Varṇāśrama','Varṇāśrama as a natural social order that holds modern political systems.')]
 FONTS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600&family=Marcellus&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Tiro+Devanagari+Sanskrit&display=swap">'
