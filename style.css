@@ -156,3 +156,4 @@ td .sub { display: block; font-family: var(--body); font-size: .85rem; color: va
 /* Footer */
 .site-foot { border-top: 1px solid var(--rule); font-family: var(--ui); font-size: .88rem; color: var(--muted); }
 .site-foot .wrap { padding-block: 2rem 3rem; display: flex; flex-direction: column; gap: .6rem; }
+.organ .cite-line { font-family: var(--ui); font-size: .82rem; color: var(--muted); }
