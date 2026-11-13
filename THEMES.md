@@ -30,5 +30,3 @@ Threads running through it:
 - That is liberation, *kaivalya*: living in a different experience of this world, free from karmic reactions.
 - This is the bridge between the two topics (awareness, love and bhakti on one side, karma on the other). It can be elaborated a lot, partly with material from Lazarev.
 
-## Parked (nik, 2026-11-13)
-- Five Lazarev case stories for the karma page (destiny/driving rule, burned company, forgiving is not enough, rehired employee, the sisters who changed), with a health note. Removed from the page for now; the HTML is saved in `_build/src/_parked-karma-stories.html` to restore later.
