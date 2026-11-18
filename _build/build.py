@@ -32,7 +32,7 @@ for p,title,_,desc in pages:
     head = f'<title>{title}</title>\n<meta name="claude:viewport-fit-sides" content="cover">\n<meta name="description" content="{desc}">{robots}\n{FONTS}\n<link rel="stylesheet" href="{up}style.css">'
     inner = f'''<header class="site-head"><div class="wrap"><a class="brand" href="{up}index.html">Spiritual <span>Unity</span> Movement</a><nav class="site-nav" aria-label="Main">{nav(p, up)}</nav></div></header>
 {body}
-<footer class="site-foot"><div class="wrap"><p>The Spiritual Unity Movement offers this site as its own perspective, with respect for every tradition it quotes.</p><p>Quotes are cited to their sources and translators. Spotted an error? Please tell us so we can correct it.</p></div></footer>'''
+<footer class="site-foot"><div class="wrap"><p>The Spiritual Unity Movement offers this site as its own perspective, with respect for every tradition it quotes.</p><p>Quotes are cited to their sources and translators. Spotted an error? Please tell us so we can correct it.</p><p><a href="{up}notes-7k3q/index.html">Notes</a></p></div></footer>'''
     full = f'<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n{head}\n</head>\n<body>\n{inner}\n</body>\n</html>\n'
     for d in (GH, AR): (d/f'{p}.html').parent.mkdir(parents=True, exist_ok=True)
     (GH/f'{p}.html').write_text(full)
