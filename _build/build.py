@@ -4,7 +4,8 @@ S = HERE/'src'; GH = HERE.parent; AR = HERE/'artifact'
 GH.mkdir(exist_ok=True); AR.mkdir(exist_ok=True)
 pages = [('index','Spiritual Unity Movement','Home','How the world\'s traditions relate: many paths, one ocean of love.'),
          ('bhakti','Bhakti · Spiritual Unity Movement','Bhakti','Words of love for God from prophets and saints across traditions.'),
-         ('themes','Themes · Spiritual Unity Movement','Themes','Six themes on bhakti, karma, awareness, pitfalls, psychology and the holy name.'),
+         ('themes','Themes · Spiritual Unity Movement','Themes','Seven themes on the mind, bhakti, karma, awareness, pitfalls, psychology and the holy name.'),
+         ('power-of-mind','The Power of the Mind · Spiritual Unity Movement','The power of the mind','The mind as the bridge from matter to spirit: the five koshas, the evidence for mind shaping body, and the step to the soul.'),
          ('what-is-bhakti','What Is Bhakti? · Spiritual Unity Movement','What is bhakti?','Bhakti as sanatana-dharma, the eternal function of the soul: loving service.'),
          ('what-is-karma','What Is Karma? · Spiritual Unity Movement','What is karma?','Karma as the process by which the world teaches us to love without motive and without interruption.'),
          ('karma-stories','Stories from Practice · Spiritual Unity Movement','Stories from practice','Twenty-five accounts from Sergey Lazarev\'s Diagnostics of Karma: destiny, finances, relationships, kindness and health.'),
@@ -19,7 +20,7 @@ pages = [('index','Spiritual Unity Movement','Home','How the world\'s traditions
 FONTS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600&family=Marcellus&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Tiro+Devanagari+Sanskrit&display=swap">'
 NAV = [('index','Home'),('bhakti','Bhakti'),('themes','Themes'),('balance/index','Balance'),('darshanas','Six darśanas'),('varnashrama','Varṇāśrama')]
 PRIVATE = {'notes-7k3q/index'}   # unlisted: not in nav, noindex
-THEMES = {'what-is-bhakti','what-is-karma','karma-stories','four-levels','pitfalls','bhakti-psychology','kirtan'}
+THEMES = {'power-of-mind','what-is-bhakti','what-is-karma','karma-stories','four-levels','pitfalls','bhakti-psychology','kirtan'}
 def nav(cur, up=''):
     cur = 'themes' if cur in THEMES else 'balance/index' if cur in PRIVATE else cur
     return ''.join(f'<a href="{up}{p}.html"{" aria-current=\"page\"" if p==cur else ""}>{n}</a>' for p,n in NAV)
